@@ -60,11 +60,18 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="700" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5f7dfb8-e1b4-4cbc-8c06-15db71be7fe0" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a32d3e17-4dcb-469c-a31a-1a3061b72fb5" />
+
+<img width="600" height="350" alt="Screenshot 2026-05-13 105827" src="https://github.com/user-attachments/assets/205e81e4-1d07-43cc-8af2-1979b661d26c" />
+
 
 
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+## Result
 
+Thus the Experiment was successfully completed and the output is verified
 
